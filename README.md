@@ -2,13 +2,17 @@ Slides pour expliquer Sciences en Marche
 ========================================
 Contact: Lucas Nussbaum <lucas.nussbaum@univ-lorraine.fr>
 
-J'ai utilisé cette courte présentation pour tenter d'expliquer le mouvement
+Lien direct vers le PDF: https://github.com/lnussbaum/slides-sem/raw/master/sem.pdf
+
+
+Cette courte présentation a été utilisée pour tenter d'expliquer le mouvement
 "Sciences en Marche" à mes étudiants. Je la partage sur GitHub pour vous
-inciter à la récupérer, à l'adapter, et à en faire de même.
+inciter à la récupérer, à l'adapter, et à en faire de même avec vos propres
+étudiants.
 
 A priori, elle a été plutôt bien reçue par les étudiants.
 
-Elle a au moins trois défauts connus:
+Elle a au moins quatre défauts connus:
 
 0) elle est personnelle. Elle vaut ce qu'elle vaut. "Forkez" là, et faites mieux :-)
 
@@ -30,6 +34,9 @@ focalise là dessus. Ce qu'on souhaite, c'est que les universités aient les
 moyens d'exercer leurs missions d'une manière satisfaisante pour tous, et pour
 ça, elles ont besoin de plus d'argent ou de postes. Mais que ce budget vienne
 du CIR ou d'ailleurs m'est un peu égal en tant qu'enseignant-chercheur.
+
+3) Elle n'est pas très jolie. Je l'ai adaptée pour utiliser le thème Beamer
+standard pour pouvoir la partager facilement. Je suis sûr que vous ferez mieux.
 
 
 Conditions de réutilisation:
